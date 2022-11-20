@@ -1,0 +1,17 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#canvas {
+    position: absolute;
+}
+
+.tools {
+    visibility: hidden;
+    width: 50px;
+    height: 1000px;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.335);
+}
